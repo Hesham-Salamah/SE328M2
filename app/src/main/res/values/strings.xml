@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Salamah-midT2</string>
+    <string name="name">Welcome to the project of Hesham-190202</string>
+    <string name="app">Your app will start in:</string>
+    <string name="timer">6 Seconds</string>
+    <string name="Id">ID</string>
+    <string name="inputName">Name:</string>
+    <string name="mail">E-Mail</string>
+    <string name="Phone">Phone Number (Optional)</string>
+    <string name="bttn">Insert</string>
+</resources>
